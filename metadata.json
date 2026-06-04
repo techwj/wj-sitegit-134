@@ -1,0 +1,59 @@
+{
+  "siteId": "dog-training-tutorial",
+  "generatedAt": "2026-06-04T11:36:17.236404",
+  "categories": [
+    "beginner-dog-training-tutorial",
+    "advanced-dog-training-tutorial",
+    "tips-dog-training-tutorial",
+    "history-dog-training-tutorial",
+    "trending-dog-training-tutorial",
+    "tutorials-dog-training-tutorial"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-dog-training-tutorial",
+      "category_name": "Beginner Dog Training Tutorial"
+    },
+    {
+      "category_slug": "advanced-dog-training-tutorial",
+      "category_name": "Advanced Dog Training Tutorial"
+    },
+    {
+      "category_slug": "tips-dog-training-tutorial",
+      "category_name": "Dog Training Tutorial Tips"
+    },
+    {
+      "category_slug": "history-dog-training-tutorial",
+      "category_name": "Dog Training Tutorial History"
+    },
+    {
+      "category_slug": "trending-dog-training-tutorial",
+      "category_name": "Trending Dog Training Tutorial"
+    },
+    {
+      "category_slug": "tutorials-dog-training-tutorial",
+      "category_name": "Dog Training Tutorial Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "dog-training-tutorial",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "sidebar",
+    "site_title": "Dog Training Tutorial Central",
+    "articles_per_row": 4
+  }
+}
